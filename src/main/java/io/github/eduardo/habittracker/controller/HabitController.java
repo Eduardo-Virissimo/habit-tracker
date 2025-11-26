@@ -34,4 +34,5 @@ public class HabitController {
         service.recordHabit(id);
         return "Habit recorded";
     }
+
 }
